@@ -118,8 +118,6 @@ This section has moved here: [https://geeksmanjcbust.in/](https://facebook.githu
 </table>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Aayush_Tyagi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yanasinghal///)](https://www.linkedin.com/in/yanasinghal///)
-
 [Back to Table of Contents](#table-of-contents)
 
 ## Contributing
