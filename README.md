@@ -108,17 +108,17 @@ This section has moved here: [https://geeksmanjcbust.in/](https://facebook.githu
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/aayushme/">
+        <a href="https://github.com/yana449">
             <img src="https://avatars2.githubusercontent.com/u/44281902?s=400&u=e943101b7644437b9acd95c05ef99406e71dcd68&v=4" width="100px;" alt="" style="border-radius:50%;" /><br />
         </a>
-            <br><a href="https://github.com/Manan-YMCA/xunbao-2020/commits?author=aayushme" title="Code">💻<b>Aayush Tyagi</b></a>
+            <br><a href="https://github.com/Manan-YMCA/xunbao-2020/commits?author=aayushme" title="Code">💻<b>Yana Singhal</b></a>
     </td>
    
   </tr>
 </table>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Aayush_Tyagi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-tyagi-30a293185//)](https://www.linkedin.com/in/aayush-tyagi-30a293185//)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Aayush_Tyagi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yanasinghal///)](https://www.linkedin.com/in/yanasinghal///)
 
 [Back to Table of Contents](#table-of-contents)
 
